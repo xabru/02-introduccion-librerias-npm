@@ -1,0 +1,23 @@
+{
+  "name": "intro-node-js",
+  "version": "1.0.0",
+  "description": "Modulo node js de introduccion",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xabru/02-introduccion-librerias-npm.git"
+  },
+  "keywords": [
+    "introduccion",
+    "nodejs"
+  ],
+  "author": "Xabru psy <xabru@yandex.com> (https://xabru.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/xabru/02-introduccion-librerias-npm/issues"
+  },
+  "homepage": "https://github.com/xabru/02-introduccion-librerias-npm#readme"
+}
